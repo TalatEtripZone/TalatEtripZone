@@ -92,7 +92,7 @@
   <br/>
 
  
-![](https://github-profile-trophy.vercel.app/?username=Talat09&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=TalatEtripZone&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
   
 </details>
 
