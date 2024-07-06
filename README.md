@@ -90,7 +90,10 @@
     <img alt="Ekram's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TalatEtripZone&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="192px"/>
   <img alt="Ekram's's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalatEtripZone&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+ 
+![](https://github-profile-trophy.vercel.app/?username=Talat09&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+  
 </details>
 
 <details>
